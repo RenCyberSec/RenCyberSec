@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently refining my skills in **Pene-testing, especialliy OSINT**
 
-- 📝 I have shared my writeup to demonstrate my skills on my [personal blog](https://1earnwithren.wordpress.com/notes-sharing/)
+- 📝 I have shared my writeup to demonstrate my skills on my [personal blog](https://rencybersec.github.io/)
 
 - 💬 Ask me about **my thoughts on this field; I have tons of feedback to share as someone coming from a non-tech background.**
 
